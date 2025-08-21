@@ -1,0 +1,7 @@
+@charset "UTF-8";
+ul{
+	color:red;
+}
+body{
+	align-items: center;
+}

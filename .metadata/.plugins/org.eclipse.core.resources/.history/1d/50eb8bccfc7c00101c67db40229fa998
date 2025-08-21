@@ -1,0 +1,8 @@
+@charset "UTF-8";
+ul{
+	color:red;
+}
+body{
+	align-items: center;
+	background-color: rgb(124, 140, 154);
+}
