@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Index Page</title>
+<link rel="stylesheet" href="style.css">
+<style>
+
+.container img {
+      width: 100%;
+      max-width: 300px;
+      height: auto;
+      border-radius: 8px;
+      margin-bottom: 20px;
+    }
+
+</style>
+</head>
+<body>
+
+
+<div class = "container">
+	<img class = "im" src = "images/image1.jpeg"> </img>
+	<h1>Welcome to Pravin Lengare's Project </h1>
+	<p>🔴 Frontend technologies used: HTML, CSS.</p>
+    <p>🔴 Backend technologies used: JSP, Servlet, JDBC.</p>
+	<p>Feel free to <span class="emoji">👋</span> Login or <span class="emoji">🚀</span> Register to get started!</p>
+    <div class="links">
+        <a href="login.jsp">Login</a>
+        <a href="register.jsp">Register</a>
+    </div>
+ </div>
+</body>
+</html>

@@ -9,7 +9,7 @@
 </head>
 <body>
 	<div class="container">
-        <h1>Login</h1>
+        <h1>Register</h1>
         <form action="RegisterServlet" method="post"> <!-- Change method to "post" -->
             <label for="username">Username:</label>
             <input type="text" id="username" name="username" required><br>
@@ -21,6 +21,12 @@
         </form>
 
         <p><a href="index.html">Back to Home</a></p>
+        
+       
+       </div>
+        
+        
+       
 
 </body>
 </html>

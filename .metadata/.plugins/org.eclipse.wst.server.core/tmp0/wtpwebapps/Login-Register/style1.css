@@ -25,12 +25,12 @@ body {
     text-align: center; /* Center the content */
 }
 .container1{
-	width: 120%;
+	width: 80%;
     max-width: 400px;
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 1, 0.5);
-    background-color: #98d5e9;
+    background-color: #AEFD6C;
     text-align: center;
 }
 .cont{
