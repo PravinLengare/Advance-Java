@@ -1,4 +1,6 @@
 INDEX VERSION 1.134
+/Users/webshar/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/137663481.index
+/DemoApp/src/main/java
 /Users/webshar/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2817053835.index
 /Login-Register/src/main/java
 /Users/webshar/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2228441687.index
@@ -9,3 +11,5 @@ INDEX VERSION 1.134
 /MereCalculator/src/main/java
 /Users/webshar/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2021925034.index
 /JavaProjectUsingJakarta/src/main/java
+/Users/webshar/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2185626650.index
+/JSTLDemo/src/main/java

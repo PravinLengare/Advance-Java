@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app id="WebApp_ID" version="2.4" xmlns="http://java.sun.com/xml/ns/j2ee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee http://java.sun.com/xml/ns/j2ee/web-app_2_4.xsd">
+	<display-name>ServletConfigandContext</display-name>
+	 
+	  <servlet>
+	 	<servlet-name> abc</servlet-name>
+	 	<servlet-class>com.practice.MyServlet</servlet-class>
+	 	
+	 	<init-param> 
+	 		<param-name> name</param-name>
+	 		<param-value> Amol</param-value>
+	 		
+	 	</init-param>
+	  </servlet>
+	 
+	 <servlet-mapping>
+	 
+	 	<servlet-name>abc</servlet-name>
+	 	<url-pattern>/MyServlet</url-pattern>
+	 </servlet-mapping>
+	 
+	   
+	 <context-param> 
+	 		<param-name>name</param-name>
+	 		<param-value>Pravin</param-value>
+	 </context-param>
+	 
+	  
+	 <context-param> 
+	 		<param-name>phone</param-name>
+	 		<param-value>Realme</param-value>
+	 </context-param>
+		 
+</web-app>
